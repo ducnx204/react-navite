@@ -1,0 +1,8 @@
+components: lưu các thành phần hỗ trợ tạo ra giao diện, thường dùng các màn hình khác nhau
+constant: định nghĩa các hằng
+models: định nghĩa các lớp lưu thông tin
+navigation: điều hướng
+screens: các màn hình
+store: định nghĩa dữ liệu dùng chung giữa các màn hình
+  action: hành động thực hiện
+  reducers: lưu thông tin
